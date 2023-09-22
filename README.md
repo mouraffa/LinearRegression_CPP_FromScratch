@@ -48,21 +48,16 @@ Before running the code, ensure you have the following prerequisites installed:
 
 The project directory is structured as follows:
 
-\usepackage{tree}
-...
-\dirtree{%
-.1 / (Root).
-.2 README.md.
-.2 C++.
-.3 linear\_regression.cpp.
-.2 Python.
-.3 generate\_data.py.
-.3 visualize\_error.py.
-.2 Data.
-.3 sample\_data.txt.
-.2 Jupyter\_Notebook.
-.3 LinearRegression\_CPP\_FromScratch.ipynb.
-}
+- README.md
+- C++
+  - linear_regression.cpp
+- Python
+  - generate_data.py
+  - visualize_error.py
+- Data
+  - sample_data.txt
+- Jupyter_Notebook
+  - LinearRegression_CPP_FromScratch.ipynb
 
 
 
